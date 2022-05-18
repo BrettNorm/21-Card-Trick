@@ -9,3 +9,5 @@ card it is (by locating it as the 11th card in the deck of 21 cards); and second
 she cleverly either eliminates or keeps in order to reveal the card.
 
 21 Card Trick: https://www.youtube.com/watch?v=d7dg7gVDWyg
+
+![21cardtrick-pic4](https://user-images.githubusercontent.com/76761888/169132108-42ddd9a6-08e4-46a2-8675-55924b2fa208.png)
