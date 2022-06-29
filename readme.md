@@ -1,6 +1,6 @@
 
 
-- At the start of an execution, program dispalys shuffled cards on screen (face up, as it were), and 
+- At the start of an execution, program displays shuffled cards on screen (face up, as it were), and 
 asks the interactive user to pick one of the cards and either memorize it, or write it down. 
 - The computer is going to "read the user's mind" and tell the user the card. 
     - (The program does NOT read the user's mind in any creepy way. This is a trick that relies on manipulating where in the deck a card appears.)
